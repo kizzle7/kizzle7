@@ -13,10 +13,15 @@ Personal projects 😃🧾
 I've gotten the opportunity to work on different projects, all of which are interesting and took me on a different journey, learn new things and have fun while at it. I enjoy the process a little bit more than i enjoy the outcome.
 
 Plan-itt - A webiste that provides you with best event platform to organize any event with ease. We design, plan, organize and connect you with event vendors, giving you value for your money in Nigeria.
+
 Untitled - An ecommerce platform.
+
 Internet Banking - A fintech banking web application for certian bank.
+
 Investify (Double Investement) - I made this for a Ponzi scheme
+
 CreditGo - A finctech platform for funds acquisition based on customer bank statements, and other basic components
+
 PocketMoni - A financial platform to borrow money and make installmental paymemts
 
 What's Next?
